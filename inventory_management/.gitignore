@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.env/
+venv/
+.envrc
+pip-selfcheck.json
+
+# Pipenv files (keep Pipfile and Pipfile.lock, ignore cache)
+*.egg-info/
+.eggs/
+
+# SQLite database
+inventory.db
+
+# VS Code settings (if you're using VS Code)
+.vscode/
+
+# Logs
+*.log
